@@ -4,7 +4,7 @@
     
   <h2> 🚀 Technologies and Skills </h2>
     
-   <h3>Frontend</h3>  
+   <h3 align="center">Frontend</h3>  
     
   <p align="center">
         <a href="https://skillicons.dev">
@@ -12,10 +12,10 @@
         </a>
     </p>
     
-  - React, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS  
+  - React, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Vite  
     - Responsive design and performance optimization  
     
-    <h3>Backend</h3>  
+    <h3 align="center">Backend</h3>  
     <p align="center">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=python,flask,nodejs,express,java,spring" />
@@ -25,7 +25,7 @@
     - Python, Flask, Node.js, Express, Java, Spring Boot  
     - REST API management, JWT authentication  
     
-    <h3>Databases</h3>  
+    <h3 align="center">Databases</h3>  
     <p align="center">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=postgres,mysql" />
@@ -34,14 +34,14 @@
     
     - PostgreSQL, MySQL  
     
-    <h3>Tools and Other Technologies</h3>  
+    <h3 align="center">Tools and Other Technologies</h3>  
     <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,docker,vite" />
+          <img src="https://skillicons.dev/icons?i=git,docker" />
         </a>
     </p>
     
-    - Git, Docker, Vite, ORM  
+    - Git, Docker, ORM  
     
     ---
     
