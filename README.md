@@ -4,7 +4,7 @@
     
   <h2> 🚀 Technologies and Skills </h2>
     
-  <h3>Frontend</h3>  
+   <h3>Frontend</h3>  
     
   <p align="center">
         <a href="https://skillicons.dev">
@@ -18,11 +18,11 @@
     <h3>Backend</h3>  
     <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=python,flask,nodejs,express,spring" />
+          <img src="https://skillicons.dev/icons?i=python,flask,nodejs,express,java,spring" />
         </a>
     </p>
     
-    - Python, Flask, Node.js, Express, Spring Boot  
+    - Python, Flask, Node.js, Express, Java, Spring Boot  
     - REST API management, JWT authentication  
     
     <h3>Databases</h3>  
@@ -48,4 +48,4 @@
     <h2> 💬 Let's connect </h2>  
     Do you have an exciting project or are you looking to collaborate? I'm always open to new opportunities and challenges! 
 
-    linkedin: <a href="https://www.linkedin.com/in/virulegiojoan/">/virulegiojoan</a> https://www.linkedin.com/in/virulegiojoan/
+    linkedin: <a href="https://www.linkedin.com/in/virulegiojoan/">/virulegiojoan</a> 
