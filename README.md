@@ -28,11 +28,11 @@
     <h3 align="center">Databases</h3>  
     <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+          <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
         </a>
     </p>
     
-  - PostgreSQL, MySQL  
+  - PostgreSQL, MySQL, MongoDB  
     
     <h3 align="center">Tools and Other Technologies</h3>  
     <p align="center">
