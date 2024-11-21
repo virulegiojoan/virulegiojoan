@@ -22,7 +22,7 @@
         </a>
     </p>
     
-    - Python, Flask, Node.js, Express, Java, Spring Boot  
+  - Python, Flask, Node.js, Express, Java, Spring Boot  
     - REST API management, JWT authentication  
     
     <h3 align="center">Databases</h3>  
@@ -32,7 +32,7 @@
         </a>
     </p>
     
-    - PostgreSQL, MySQL  
+  - PostgreSQL, MySQL  
     
     <h3 align="center">Tools and Other Technologies</h3>  
     <p align="center">
@@ -41,7 +41,7 @@
         </a>
     </p>
     
-    - Git, Docker, ORM  
+  - Git, Docker, ORM  
     
     ---
     
